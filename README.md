@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Varun<br>You are a full stack developer skilled in technologies such as:<br><br>Laravel<br>HTML, CSS, JavaScript<br>PHP<br>SQL<br>Flutter<br>You have extensive experience building large SaaS-based projects and applications, with a strong focus on CRMs and business productivity tools.<br><br>Public and Private Project List from Your GitHub<br>Here are some of the projects in your GitHub repositories:<br><br>expense_tracker: A Dart-based application for tracking expenses. (private)<br>docs: Documentation repository (public).<br>desktop-tutorial: A GitHub Desktop tutorial repository. (private)<br>4in10_landing_page_2: Landing page project. (private)<br>eoffice: Project management or e-office application. (private)<br>4in10_landing_page: Another landing page, written in TypeScript. (private)
+About Varun<br>You are a full stack developer skilled in technologies such as:<br><br>Laravel<br>HTML, CSS, JavaScript<br>PHP<br>SQL<br>Flutter<br>You have extensive experience building large SaaS-based projects and applications, with a strong focus on CRMs and business productivity tools.
 
 
 ## 🌐 Socials:
