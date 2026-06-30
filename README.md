@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Varun%20Dev&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Jaipur%2C%20India&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Varun%20Dev&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Jaipur%2C%20India&descAlignY=55&descSize=16" alt="Header Banner"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+SaaS+platforms+%F0%9F%9A%80;100K%2B+users+on+MeriDairy+%F0%9F%A5%9B;Node.js+%7C+Laravel+%7C+Flutter+%7C+AWS;Turning+ideas+into+production-grade+apps+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+SaaS+platforms+%F0%9F%9A%80;100K%2B+users+on+MeriDairy+%F0%9F%A5%9B;Node.js+%7C+Laravel+%7C+Flutter+%7C+AWS;Turning+ideas+into+production-grade+apps+%E2%9A%A1" alt="Typing SVG"/>
 
 <br/>
 
@@ -38,22 +36,20 @@ const varun = {
 };
 ```
 
-> **Full Stack Developer** with **3+ years** of experience building scalable backend systems and SaaS applications. I specialize in **Node.js**, **Express.js**, **REST APIs**, and **microservices** — with hands-on experience in **Flutter**, **Laravel**, **MongoDB**, **PostgreSQL**, **Docker**, and **AWS**. Passionate about system architecture, API development, database optimization, and delivering production-grade applications.
+> **Full Stack Developer** with **3+ years** of experience building scalable backend systems and SaaS applications. I specialize in **Node.js**, **Express.js**, **REST APIs**, and **microservices** — with hands-on experience in **Flutter**, **Laravel**, **MongoDB**, **PostgreSQL**, **Docker**, and **AWS**.
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=varun-b2infosoft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-b2infosoft&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=varun-b2infosoft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=varun-b2infosoft&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" height="165" alt="GitHub Streak"/>
 
 <br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-b2infosoft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact&langs_count=8&include_all_commits=true&count_private=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varun-b2infosoft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact&langs_count=8&include_all_commits=true&count_private=true" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -63,20 +59,13 @@ const varun = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varun-b2infosoft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=667eea" alt="Activity Graph"/>
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varun-b2infosoft&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-</div>
-
 ### 📉 Profile Summary Cards
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun-b2infosoft&theme=github_dark" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varun-b2infosoft&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varun-b2infosoft&theme=github_dark" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varun-b2infosoft&theme=github_dark" alt="Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varun-b2infosoft&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varun-b2infosoft&theme=github_dark" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varun-b2infosoft&theme=github_dark" alt="Repos per Language"/>
 </div>
 
 ---
@@ -90,8 +79,8 @@ const varun = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -111,20 +100,21 @@ const varun = {
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Integrations & APIs
+### Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 
 ### 📊 Skills Distribution
 
 ```mermaid
-pie title Tech Stack Breakdown
+pie showData
+    title Tech Stack Breakdown
     "Backend (Node/Laravel)" : 35
     "Mobile (Flutter)" : 25
     "Databases" : 20
@@ -132,15 +122,16 @@ pie title Tech Stack Breakdown
     "Integrations" : 8
 ```
 
-### 📊 Skill Proficiency
-
-```mermaid
-xychart-beta
-    title "Core Skills Proficiency"
-    x-axis ["Node.js", "Laravel", "Flutter", "REST APIs", "MySQL", "MongoDB", "Docker", "AWS"]
-    y-axis "Level" 0 --> 100
-    bar [95, 90, 88, 92, 85, 80, 75, 70]
-```
+| Skill | Proficiency |
+|:---|:---:|
+| Node.js | `██████████` 95% |
+| Laravel | `█████████░` 90% |
+| Flutter | `█████████░` 88% |
+| REST APIs | `█████████░` 92% |
+| MySQL | `████████░░` 85% |
+| MongoDB | `████████░░` 80% |
+| Docker | `███████░░░` 75% |
+| AWS | `███████░░░` 70% |
 
 ---
 
@@ -246,22 +237,12 @@ timeline
 </tr>
 </table>
 
-### 📊 Project Impact Overview
-
-```mermaid
-quadrantChart
-    title Project Scale vs Complexity
-    x-axis Low Complexity --> High Complexity
-    y-axis Low Scale --> High Scale
-    quadrant-1 Enterprise Scale
-    quadrant-2 Growth Products
-    quadrant-3 Side Projects
-    quadrant-4 Niche Solutions
-    MeriDairy: [0.85, 0.95]
-    4in10.io: [0.7, 0.6]
-    Auctio: [0.75, 0.55]
-    POS System: [0.6, 0.5]
-```
+| Project | Scale | Complexity | Stack |
+|:---|:---:|:---:|:---|
+| MeriDairy | 🔥🔥🔥🔥🔥 | High | Laravel, Flutter, MySQL |
+| 4in10.io | 🔥🔥🔥🔥 | Medium-High | Laravel, PostgreSQL |
+| Auctio | 🔥🔥🔥 | Medium | Flutter, Node.js, MySQL |
+| POS System | 🔥🔥🔥 | Medium | Flutter, Node.js, MySQL |
 
 ---
 
@@ -273,11 +254,10 @@ quadrantChart
 | **BCA** — Bachelor of Computer Applications | Rajasthan University, Jaipur | 2022 – 2024 | **71%** |
 
 ```mermaid
-xychart-beta
-    title "Academic Performance"
-    x-axis ["BCA", "MCA"]
-    y-axis "Percentage" 0 --> 100
-    bar [71, 81]
+pie showData
+    title Academic Scores
+    "MCA (81%)" : 81
+    "BCA (71%)" : 71
 ```
 
 ---
@@ -319,27 +299,28 @@ mindmap
 
 ---
 
-## 🎮 Fun Zone — Play While You Browse!
+## 🎮 Fun Zone
 
 <div align="center">
 
 ### 🐍 Contribution Snake Game
-![Snake animation](https://raw.githubusercontent.com/varun-b2infosoft/varun-b2infosoft/output/github-contribution-grid-snake.svg)
 
-### 🌙 Snake — Dark Mode
-![Snake Dark](https://raw.githubusercontent.com/varun-b2infosoft/varun-b2infosoft/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg"/>
+  <img src="assets/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+</picture>
 
 ### 📈 Contribution Chart
+
 <img src="https://ghchart.rshah.org/667eea/varun-b2infosoft" alt="Contribution Chart"/>
 
 <br/>
 
-<!-- Random Dev Joke -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight" alt="Dev Joke"/>
 
 <br/>
 
-<!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
@@ -356,14 +337,7 @@ mindmap
 
 <br/>
 
-<!-- Spotify Now Playing (optional - shows if connected) -->
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?unique=true&loved=true&count=3" alt="Spotify"/> -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20%F0%9F%9A%80&fontSize=16&fontColor=fff&animation=fadeIn"/>
-
-<br/>
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=varun-b2infosoft&icon=5&color=6)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20%F0%9F%9A%80&fontSize=16&fontColor=fff&animation=fadeIn" alt="Footer Banner"/>
 
 </div>
 
